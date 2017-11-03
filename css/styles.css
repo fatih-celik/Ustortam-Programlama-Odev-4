@@ -1,0 +1,122 @@
+/** Gerekli stiller bu css dosyasının içinde düzenlendi **/
+body {
+  font-size: 16px;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+  color: #000000;
+}
+
+
+#header-nav {
+  background-color: #e0e0d1;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: #FAFAFA;
+   font-size: 1.0em; 
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p {
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+
+#nav-list {
+  margin-top: 10px;
+  color: #000;
+}
+#nav-list a {
+  color: #000000;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+  color: darkblue;
+}
+#nav-list a span {
+  font-size: 1em;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+
+
+
+  #collapsable-nav a { 
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span { 
+    font-size: 1em;
+    margin-right: 5px;
+  }
+
+ 
+
+ 
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+#Chicken {
+  background-color: #e0e0d1;
+}
+
+#Beef {
+  background-color: #e0e0d1;
+}
+#Sushi {
+  background-color: #e0e0d1;
+}
+
+#Chicken h2 {
+  text-align: center;
+  font font-weight: bold;
+}
+
+#Beef h2 {
+  text-align: center;
+  font font-weight: bold;
+}
+
+#Sushi h2 {
+  text-align: center;
+  font font-weight: bold;
+}
+
+#nav-list a {
+  color: whitesmoke;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+  color: darkblue;
+}
+#nav-list a span {
+  font-size: 1em;
+}
